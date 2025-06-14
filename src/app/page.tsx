@@ -1,7 +1,7 @@
 import {HeaderGallery} from "./components/header-gallery";
 import { Metadata } from 'next'
 export const metadata: Metadata = {
-    title: 'Brian | Engineer & Creator',
+    title: 'Brian | Engineer & Maker',
     icons: {
         icon: '/assets/icon.png'
     }
